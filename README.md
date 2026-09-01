@@ -1,3 +1,18 @@
+<img width="600" height="1066" alt="gifrobot-ezgif com-optimize" src="https://github.com/user-attachments/assets/5aa2eb98-a5b1-418e-b028-2cf06f359c1f" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-01 at 2 33 06 AM (1)" src="https://github.com/user-attachments/assets/df9c1ef3-5b5e-432f-9b8d-febd7d79deb1" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-01 at 2 33 06 AM (2)" src="https://github.com/user-attachments/assets/74fb6660-73bf-4010-af5b-a348d7b982c4" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-01 at 2 33 07 AM" src="https://github.com/user-attachments/assets/87b383f5-960f-45a1-ae68-af0eaffd1678" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-01 at 2 33 07 AM (1)" src="https://github.com/user-attachments/assets/331e7ac6-8e2e-406d-a39c-c9edfa7c896e" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-01 at 2 33 05 AM" src="https://github.com/user-attachments/assets/af2baae7-0ea9-428f-baad-528beda41e74" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-01 at 2 33 06 AM" src="https://github.com/user-attachments/assets/be29dfd8-6b95-4120-a69f-410bdbc4e3a6" />
+
+
+
+
+This is the full YouTube video link for the project: https://youtube.com/shorts/5AvpLy7rWrU?feature=share
+
+
 ### Bill of Materials (BOM)
 
 | Item # | Component Name / Description | Qty | Unit Price (EGP) | Total Price (EGP) | Reference / Source Notes |
